@@ -1,0 +1,28 @@
+C:\Users\erica\oopAssign\bin\Debug\net8.0\oopAssign.exe
+C:\Users\erica\oopAssign\bin\Debug\net8.0\oopAssign.deps.json
+C:\Users\erica\oopAssign\bin\Debug\net8.0\oopAssign.runtimeconfig.json
+C:\Users\erica\oopAssign\bin\Debug\net8.0\oopAssign.dll
+C:\Users\erica\oopAssign\bin\Debug\net8.0\oopAssign.pdb
+C:\Users\erica\oopAssign\obj\Debug\net8.0\oopAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erica\oopAssign\obj\Debug\net8.0\oopAssign.AssemblyInfoInputs.cache
+C:\Users\erica\oopAssign\obj\Debug\net8.0\oopAssign.AssemblyInfo.cs
+C:\Users\erica\oopAssign\obj\Debug\net8.0\oopAssign.csproj.CoreCompileInputs.cache
+C:\Users\erica\oopAssign\obj\Debug\net8.0\oopAssign.dll
+C:\Users\erica\oopAssign\obj\Debug\net8.0\refint\oopAssign.dll
+C:\Users\erica\oopAssign\obj\Debug\net8.0\oopAssign.pdb
+C:\Users\erica\oopAssign\obj\Debug\net8.0\oopAssign.genruntimeconfig.cache
+C:\Users\erica\oopAssign\obj\Debug\net8.0\ref\oopAssign.dll
+C:\Users\erica\Desktop\c# assignment\inheritance\bin\Debug\net8.0\oopAssign.exe
+C:\Users\erica\Desktop\c# assignment\inheritance\bin\Debug\net8.0\oopAssign.deps.json
+C:\Users\erica\Desktop\c# assignment\inheritance\bin\Debug\net8.0\oopAssign.runtimeconfig.json
+C:\Users\erica\Desktop\c# assignment\inheritance\bin\Debug\net8.0\oopAssign.dll
+C:\Users\erica\Desktop\c# assignment\inheritance\bin\Debug\net8.0\oopAssign.pdb
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\oopAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\oopAssign.AssemblyInfoInputs.cache
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\oopAssign.AssemblyInfo.cs
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\oopAssign.csproj.CoreCompileInputs.cache
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\oopAssign.dll
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\refint\oopAssign.dll
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\oopAssign.pdb
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\oopAssign.genruntimeconfig.cache
+C:\Users\erica\Desktop\c# assignment\inheritance\obj\Debug\net8.0\ref\oopAssign.dll
