@@ -1,0 +1,14 @@
+C:\Users\erica\oopAssign\abstract\abstractAssignment\bin\Debug\net8.0\abstractAssignment.exe
+C:\Users\erica\oopAssign\abstract\abstractAssignment\bin\Debug\net8.0\abstractAssignment.deps.json
+C:\Users\erica\oopAssign\abstract\abstractAssignment\bin\Debug\net8.0\abstractAssignment.runtimeconfig.json
+C:\Users\erica\oopAssign\abstract\abstractAssignment\bin\Debug\net8.0\abstractAssignment.dll
+C:\Users\erica\oopAssign\abstract\abstractAssignment\bin\Debug\net8.0\abstractAssignment.pdb
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\abstractAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\abstractAssignment.AssemblyInfoInputs.cache
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\abstractAssignment.AssemblyInfo.cs
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\abstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\abstractAssignment.dll
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\refint\abstractAssignment.dll
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\abstractAssignment.pdb
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\abstractAssignment.genruntimeconfig.cache
+C:\Users\erica\oopAssign\abstract\abstractAssignment\obj\Debug\net8.0\ref\abstractAssignment.dll
